@@ -185,7 +185,7 @@ python inference.py --video-path video.mp4 --disable-scaling
 **3. Collect Custom Dataset (Manual Annotation)
 Run this tool to capture webcam frames and manually label them for your own private dataset:**
 ```
-python collect_data.py
+python export_frame.py
 
 **Look at the screen and press '0' (Normal)
 Look away and press '1' (Cheating)
